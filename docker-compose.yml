@@ -1,7 +1,7 @@
 version: '2'
 services:
   group_add:
-    - 197121
+    - mail
   postgres:
     image: 'postgres:latest'
     environment:
