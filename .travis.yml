@@ -1,6 +1,4 @@
 sudo: required
-sudo: groupadd docker
-   usermod -aG docker aliguseynof
 language: generic
 
 services:
